@@ -1,11 +1,13 @@
 
 {
-    "name": "OshaNFT",
-    "symbol": "OSNFT",
-    "description": "An NFT for the brothers.",
-    "seller_fee_basis_points": 5,
-    "external_url": "",
-    "edition": "",
-    "background_color": "000000",
-    "image": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611030.jpg"
+  "name": "OSHANFT",
+  "symbol": "OSNFT",
+  "description": "An NFT for the brothers.",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611030.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Eyes", "value": "Big" }
+  ]
 }
+
+
